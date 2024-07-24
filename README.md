@@ -1,6 +1,9 @@
 # MikTelBot
 This is a Telegram interactive bot that can communicate with Mikrotik via Rest Api
 
+# Credentials
+Ddit the config.py file to enter your proxy credentials
+
 # Usage [ Manual ]
 ```
 sudo apt update -y
@@ -72,6 +75,9 @@ sudo systemctl start telegram_bot.service
 | Binding | Displays a list of IP bindings for the hotspot. |
 | Generate | Generates new hotspot vouchers. The bot will ask for the profile, number of vouchers, and voucher digit length. |
 | Stop | Stops monitoring traffic on the interface that is being monitored. |
+
+# Youtube
+https://www.youtube.com/@mostechnetwork
 
 # Error Report
 admin@ombulo.net
