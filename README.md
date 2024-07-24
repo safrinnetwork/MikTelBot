@@ -2,7 +2,7 @@
 This is a Telegram interactive bot that can communicate with Mikrotik via Rest Api
 
 # Credentials
-Ddit the config.py file to enter your proxy credentials
+Edit the config.py file to enter your mikrotik credentials
 
 # Usage [ Manual ]
 ```
